@@ -1,15 +1,15 @@
-# National Chi Nan University LaTeX Thesis Template
+# 國立暨南國際大學 LaTeX 論文樣板
 
-A complete thesis template for Master’s degree theses at National Chi Nan University.
+暨南國際大學碩士論文完整樣板。
 
-## How to Use  
-Refer to the [Wiki](https://github.com/sppmg/TW_Thesis_Template/wiki) of this project.  
+## 使用方法
+見本專案的 [Wiki](https://github.com/sppmg/TW_Thesis_Template/wiki) 。
 
-Alternatively, you can start with the [Beginner's Guide](https://github.com/sppmg/TW_Thesis_Template/wiki/%E7%84%A1%E8%85%A6%E6%89%8B%E5%86%8A).
+或是你想從[無腦手冊](https://github.com/sppmg/TW_Thesis_Template/wiki/%E7%84%A1%E8%85%A6%E6%89%8B%E5%86%8A)開始。
 
-## Thesis-Related Notes  
+## 論文相關說明
 
-### Spine  
-I believe the printing shops near the university are far more professional than I am :smile:, and I’m not sure how they will use the spine you create.  
+### 書脊
+我相信學校附近的影印店比我專業的多 :D ，而且我不知道你做了書脊他們會如何使用。
 
-For those who still wish to create their own spine, please refer to the method used in the NTU version (`NTU_patch`).  
+如果仍然希望自製書脊者，請參考台大版(NTU_patch)的製作方式。
