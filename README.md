@@ -1,4 +1,4 @@
-# NCNU_Thesis
+# NCNU Thesis LaTeX Template
 暨大的學弟妹您們好：
 
 這tex論文樣版我是從 台灣碩博士 LaTeX 論文樣板 轉出，
