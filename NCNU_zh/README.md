@@ -1,6 +1,6 @@
-# 國立暨南國際大學 LaTeX 論文樣板
+# 國立暨南國際大學 LaTeX 論文中文樣板
 
-暨南國際大學碩士論文完整樣板。
+暨南國際大學碩士論文完整中文樣板。
 
 ## 使用方法
 見本專案的 [Wiki](https://github.com/sppmg/TW_Thesis_Template/wiki) 。
