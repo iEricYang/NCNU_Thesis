@@ -82,7 +82,7 @@
 %         \multicolumn{4}{l}{\mcShift \titleZh }
     論文名稱 & \multicolumn{4}{l}{\mcShift ：\titleZh } \\
     校院系   & \multicolumn{3}{l}{\mcShift ：國立暨南國際大學 \collegeZh{} \deptZh} & 頁數：\totalpages \\
-    畢業時間 & ：\degreeyearROC / \degreemonth & & 學位別 & ：\deptZh \\
+    畢業時間 & ：\degreeyearROC / \degreemonth & & 學位別 & ：\degreeZh \\
     研究生   & ：\authorZh  &  & 指導教授 & ： \mprofZh \\
     
     \profsTableContentAbsZh
